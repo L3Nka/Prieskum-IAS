@@ -6,7 +6,7 @@ Na tejto stránke budú zverejnené výsledky dotazníka, najnejskôr však do 5
 
 Samotný dotazník je dostupný na nasledujúcej adrese: 
 
-[https://docs.google.com/forms/d/e/1FAIpQLSfmi8_w_cbBoLFKI2wGtj93WQUmuc0zrWdR9lN9_B_bkzTq9g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfmi8_w_cbBoLFKI2wGtj93WQUmuc0zrWdR9lN9_B_bkzTq9g/viewform)
+[https://forms.gle/KqyQzGyai39uAnj8A](https://forms.gle/KqyQzGyai39uAnj8A)
 
 # Autori
 Alena Poláchová, Lenka Stúpalová, Martin Sýkora
