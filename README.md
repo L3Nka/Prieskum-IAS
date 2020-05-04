@@ -1,12 +1,13 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-    </head>
-    <body>
-        <h1>Prieskum miery používania nelegálneho SW a mediálneho obsahu medzi študentmi FMFI</h1>
-<!--        <h2>Autori:</h2>
-        Alena Poláchová, Lenka Stúpalová, Martin Sýkora-->
-        <p>Na tejto stránke budú zverejnené výsledky dotazníka, najnejskôr však do 5.6.2020</p>
-        <p>Samotný dotazník je dostupný na nasledujúcej adrese: <a href="">[link]</a></p>
+# Prieskum miery používania nelegálneho SW a mediálneho obsahu medzi študentmi FMFI
+
+Na tejto stránke budú zverejnené výsledky dotazníka, najnejskôr však do 5.6.2020
+
+# Dotazník
+
+Samotný dotazník je dostupný na nasledujúcej adrese: 
+
+[https://docs.google.com/forms/d/e/1FAIpQLSfmi8_w_cbBoLFKI2wGtj93WQUmuc0zrWdR9lN9_B_bkzTq9g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfmi8_w_cbBoLFKI2wGtj93WQUmuc0zrWdR9lN9_B_bkzTq9g/viewform)
+
+# Autori
+Alena Poláchová, Lenka Stúpalová, Martin Sýkora
 
